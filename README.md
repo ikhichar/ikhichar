@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishita! I'm an undergraduate student of computer science engineering at BITS Pilani, Goa Campus.
 - 👀 I’m interested in natural language processing applications.
-- 🌱 I’m currently learning machine learning and also some development in python.
+- 🌱 I’m currently learning machine learning and also some development in python. I'm pretty new to this. I hope to learn a lot!
 - 📫 You can reach me at ishitakhichar@gmail.com.
 
 <!---
